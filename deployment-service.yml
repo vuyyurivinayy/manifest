@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: vuyyurivinay/zomato:zomato
+        image: vuyyurivinay/cycle-repo:cycleproject
         ports:
         - containerPort: 3000   # Use port 3000
 
